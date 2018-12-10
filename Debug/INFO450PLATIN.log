@@ -1,0 +1,3 @@
+﻿  Source.cpp
+c:\users\kkmka\desktop\infosystems\c++\info450platin\info450platin\source.cpp(90): warning C4267: 'initializing': conversion from 'size_t' to 'char', possible loss of data
+  INFO450PLATIN.vcxproj -> C:\Users\kkmka\Desktop\infoSystems\C++\INFO450PLATIN\Debug\INFO450PLATIN.exe
